@@ -1,0 +1,4 @@
+outs:
+- md5: f6679c3a372b7c89b14ce1896a64c188
+  size: 43879
+  path: neg_bio_electra_bioscope_lt_m2.index
